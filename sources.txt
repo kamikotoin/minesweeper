@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Java\project_fixed\src\client\ClientApp.java
+C:\Users\user\Documents\Java\project_fixed\src\client\ClientConnection.java
+C:\Users\user\Documents\Java\project_fixed\src\client\LoginController.java
+C:\Users\user\Documents\Java\project_fixed\src\client\MainController.java
+C:\Users\user\Documents\Java\project_fixed\src\client\TaskRow.java
+C:\Users\user\Documents\Java\project_fixed\src\common\Task.java
+C:\Users\user\Documents\Java\project_fixed\src\common\User.java
+C:\Users\user\Documents\Java\project_fixed\src\common\Utils.java
+C:\Users\user\Documents\Java\project_fixed\src\server\ClientContext.java
+C:\Users\user\Documents\Java\project_fixed\src\server\ClientHandler.java
+C:\Users\user\Documents\Java\project_fixed\src\server\CommandParser.java
+C:\Users\user\Documents\Java\project_fixed\src\server\NotificationService.java
+C:\Users\user\Documents\Java\project_fixed\src\server\Server.java
+C:\Users\user\Documents\Java\project_fixed\src\server\dao\DBConnection.java
+C:\Users\user\Documents\Java\project_fixed\src\server\dao\TaskDAO.java
+C:\Users\user\Documents\Java\project_fixed\src\server\dao\UserDAO.java
